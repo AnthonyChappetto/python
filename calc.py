@@ -41,4 +41,4 @@ elif choice == "4":
     division()
 else:
     print("Not a valid response")
-    exit()
+    exit(1)
